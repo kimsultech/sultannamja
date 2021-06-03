@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultannamja" alt="sultannamja" /></a> </p>
 
-- 🔭 I’m currently working on [Tauon Remote Application Android](https://github.com/sultannamja/tauonremote_android)
+- 🔭 I’m currently working on <b>Focus to college</b>
 
 - 🌱 I’m currently learning **Java, Android**
 
